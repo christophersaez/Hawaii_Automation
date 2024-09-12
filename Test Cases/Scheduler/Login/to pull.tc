@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>sample</name>
+   <name>to pull</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>e7d95b1e-0d3c-4504-9202-27fd71110fe3</testCaseGuid>
+   <testCaseGuid>5a966786-4b56-4397-ba1c-b28bf782ffb3</testCaseGuid>
 </TestCaseEntity>
